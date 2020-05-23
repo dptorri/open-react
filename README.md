@@ -1,2 +1,2 @@
 # open-react
-testable react components
+Library of simple reusable react components
